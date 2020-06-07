@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1591478333 source:c:\users\unxet\documents\keyobj\main.cpp
+	"windows.h"
+	<iostream>
+	"DLC.h"
+	"const_keys.h"
+	"Base64Encoder.h"
+	"IO.h"
+	"Timer.h"
+	"MailSender.h"
+	"Keybhook.h"
+
+1589128971 source:c:\users\unxet\documents\keyobj\base64encode.c
+
+1589331062 c:\users\unxet\documents\keyobj\dlc.h
+	<string>
+	<ctime>
+	<fstream>
+	<sstream>
+
+1591477396 c:\users\unxet\documents\keyobj\const_keys.h
+	<string>
+	<map>
+
+1589325664 c:\users\unxet\documents\keyobj\base64encoder.h
+	<string>
+	<vector>
+
+1589328374 c:\users\unxet\documents\keyobj\io.h
+	<string>
+	<cstdlib>
+	"windows.h"
+	"DLC.h"
+	"Base64Encoder.h"
+
+1589332127 c:\users\unxet\documents\keyobj\timer.h
+	<chrono>
+	<thread>
+	<functional>
+
+1591479664 c:\users\unxet\documents\keyobj\mailsender.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"IO.h"
+	"Timer.h"
+	"DLC.h"
+
+1591477690 c:\users\unxet\documents\keyobj\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"const_keys.h"
+	"Timer.h"
+	"MailSender.h"
+
