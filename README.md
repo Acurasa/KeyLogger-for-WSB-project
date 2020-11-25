@@ -1,2 +1,2 @@
-# KeyLogger-for-WSB-project
-PoweeeeeeeeeerSheell
+# KeyLogger-Powershell utility
+
